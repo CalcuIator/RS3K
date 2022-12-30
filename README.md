@@ -8,36 +8,17 @@ FYI, we're not claiming ownership of SEGA/Sonic team's work whatsoever (Sonic th
 
 # The credits™️
 
-Jd#9589 (or Calculator#9589, same person - me)
--Object scripting
--Object placement
--Player animations
--Level sprites
--AIZ deformation
--Outlined art for the menu's background
+Jd#9589 (or Calculator#9589, same person - me) - Object scripting, Object placement, Player animations, Level sprites, AIZ deformation, Outlined art for the menu's background
 
-Nd#4253
--Object scripting
--Player animations
--Enemy scripting
--Did the entirety of level select
+Nd#4253 - Object scripting, Player animations, Enemy scripting, Did the entirety of level select
 
-BlazingThruAGES#4179
--Provided basically every sound effect ❤️
--Sound mappings
+BlazingThruAGES#4179 - Provided basically every sound effect ❤️, Sound mappings
 
-The Taxman#4430, Simon Thomley & Hunter Bridges
--Retro Engine ❤️❤️
--Did scripting for the Sonic 1/2 RSDK remake & Sonic Mania, scripts for these games are used here
+The Taxman#4430, Simon Thomley & Hunter Bridges - Retro Engine ❤️❤️, Did scripting for the Sonic 1/2 RSDK remake & Sonic Mania, scripts for these games are used here
 
-Rubberduckycooly#6438 & st×tic ♡#2697
--Retro Engine decompilation
--Sonic 1/2 Script decompilation
--Sonic Mania decompilation
--REMS
+Rubberduckycooly#6438 & st×tic ♡#2697, Retro Engine decompilation, Sonic 1/2 Script decompilation, Sonic Mania decompilation, REMS
 
-SEGA & Sonic Team
--The hedgehog of course
+SEGA & Sonic Team - The hedgehog of course
 
 # Don't use this as an alternative for sonic origins
 wouldn't it be funny if you were required to extract sprites from 3ku's RSDK in the future?
