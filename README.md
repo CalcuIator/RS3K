@@ -36,6 +36,9 @@ Rubberduckycooly#6438 & st×tic ♡#2697
 -Sonic Mania decompilation
 -REMS
 
+SEGA & Sonic Team
+-The hedgehog of course
+
 # Don't use this as an alternative for sonic origins
 wouldn't it be funny if you were required to extract sprites from 3ku's RSDK in the future?
 
